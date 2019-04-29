@@ -1,2 +1,4 @@
 # hello-word
-first repository
+Hi Humans!
+
+VladiThousand here, I like I love programming.
